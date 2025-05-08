@@ -66,7 +66,7 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" width="40" height="40" alt="Matplotlib"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="40" height="100" alt="NumPy"/>
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="100" height="40" alt="NumPy"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" width="40" height="40" alt="Tableau"/>
