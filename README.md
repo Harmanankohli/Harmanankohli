@@ -1,14 +1,21 @@
-💫 Hi there 👋, I'm Harmanan Kohli  
-I'm a Data Scientist passionate about building impactful AI and ML systems that solve real-world problems.
+<h1 align="center">Hi 👋, I'm Harmanan Kohli</h1>
+<h3 align="center">A Passionate Data Scientist, AI/ML/NLP Engineer from India</h3>
 
-With a strong foundation in Machine Learning, Deep Learning and Generative AI, I love transforming raw data into meaningful insights and intelligent solutions. I'm deeply driven by curiosity, resilience, and the dream of creating a life of freedom and meaning through tech. 🚀
-
-If I’m not immersed in a model or reading research papers, you’ll likely find me:  
-- Exploring the latest in LLMs and prompt engineering 📚  
-- Solving DSA challenges on LeetCode 🧠  
+<p align="center">
+🚀 On a mission to build scalable AI solutions, contribute to open source, and grow with purpose.
+</p>
 
 ---
 
+- 🌱 I’m currently upskilling in **Generative AI, System Design, and LLM Security**
+- 🤝 I’m open to **remote roles or collaborations** in Data Science / ML / NLP / AI / LLM Engineering
+- 💬 Ask me about:  
+  &nbsp;&nbsp;&nbsp;&nbsp;🧠 Machine Learning & Deep Learning  
+  &nbsp;&nbsp;&nbsp;&nbsp;📊 Data Analysis & Visualization  
+  &nbsp;&nbsp;&nbsp;&nbsp;🛠 End-to-End ML Pipelines & LLM App Development  
+- 📫 Reach me at: **hkohli40@gmail.com**
+
+---
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
