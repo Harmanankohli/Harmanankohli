@@ -75,7 +75,7 @@
     <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/mlflow-white.svg" width="100" height="40" alt="MLflow"/>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="100" height="100" alt="Keras"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="100" height="80" alt="Keras"/>
   </a>
 </p>
 
