@@ -63,7 +63,7 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100" height="40" alt="FastAPI"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" width="100" height="100" alt="Matplotlib"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" width="40" height="40" alt="Matplotlib"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="100" height="100" alt="NumPy"/>
@@ -72,7 +72,7 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" width="100" height="100" alt="Tableau"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/mlflow-white.svg" width="100" height="100" alt="MLflow"/>
+    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/mlflow-white.svg" width="40" height="40" alt="MLflow"/>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="100" height="100" alt="Keras"/>
