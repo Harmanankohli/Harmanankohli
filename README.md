@@ -75,7 +75,7 @@
     <img src="https://www.mlflow.org/images/mlflow-logo-color.svg" width="40" height="40" alt="MLflow"/>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/67/Keras_logo.svg](https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg)" width="40" height="40" alt="Keras"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" height="40" alt="Keras"/>
   </a>
 </p>
 
