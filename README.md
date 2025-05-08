@@ -77,7 +77,7 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="100" height="60" alt="Keras"/>
   </a>
-  <a href="https://langchain.com/" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" width="40" height="40" alt="LangChain" /></a>
+  <a href="https://langchain.com/" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" width="100" height="40" alt="LangChain" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmanankohli&show_icons=true&locale=en&layout=compact" alt="harmanankohli" /></p>
