@@ -66,7 +66,7 @@
     <img src="https://matplotlib.org/stable/_images/logo2.svg" width="40" height="40" alt="Matplotlib"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Numpy_logo_2020.svg](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)" width="40" height="40" alt="NumPy"/>
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="40" height="40" alt="NumPy"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Tableau_Logo.svg" width="40" height="40" alt="Tableau"/>
@@ -75,7 +75,7 @@
     <img src="https://www.mlflow.org/images/mlflow-logo-color.svg" width="40" height="40" alt="MLflow"/>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" height="40" alt="Keras"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="100" height="100" alt="Keras"/>
   </a>
 </p>
 
