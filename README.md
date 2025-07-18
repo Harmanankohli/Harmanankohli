@@ -1,19 +1,61 @@
 <h1 align="center">Hi 👋, I'm Harmanan Kohli</h1>
-<h3 align="center">A Passionate Data Scientist / AI / ML / NLP / GenAI Engineer from India</h3>
+<h3 align="center">Data Scientist | AI/ML Engineer | NLP & Generative AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **Generative AI and Machine Learning System Design**
+🎯 **About Me**
+- Data Scientist experienced in **Analytics, ML, NLP, Explainable AI, and Generative AI**.
+- Skilled at building **predictive models**, **XAI pipelines**, and **scalable GenAI solutions**.
+- Proficient with **Python, SQL, TensorFlow, Keras, LangChain, Azure, SAP**, and more.
+- Passionate about applying AI responsibly to solve business and societal challenges.
 
-- 🤝 I’m looking for help with **Data Science / AI / ML / DL**
+🌱 **Currently Exploring**
+- Generative AI applications, **LLM system design**, and multimodal intelligence.
 
-- 💬 Ask me about **Data Science / ML / DL / AI / GenAI**
+🤝 **Looking to Collaborate On**
+- AI/ML, NLP, GenAI, XAI, or research-driven Data Science projects.
 
-- 📫 How to reach me **hkohli40@gmail.com**
+📫 **Reach Me At:** hkohli40@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/harmanankohli) | 👨‍💻 [GitHub](https://github.com/Harmanankohli) | 🧩 [LeetCode](https://leetcode.com/hkohli40)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harmanankohli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanankohli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hkohli40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hkohli40" height="30" width="40" /></a>
-</p>
+---
+
+## 🛠️ **Skills**
+**Languages & Tools:**  
+Python | SQL | Pandas | Numpy | Scikit-learn | TensorFlow | Keras | PyTorch | LangChain | Matplotlib | Seaborn | Tableau | Streamlit | Selenium | SAP | Azure | GCP | Git | Docker
+
+**Domains:**  
+Data Science | Machine Learning | NLP | Generative AI | Explainable AI | Multimodal AI | Cloud AI
+
+---
+
+## 📈 **Professional Highlights**
+- 🧾 Designed **safety stock optimization** and **XAI-driven RFQ classifiers**, cutting costs and improving conversions.
+- 🤖 Piloted **Google Gemini-based GenAI solutions** for semantic search and invoice data extraction.
+- 🔍 Built **LLM-powered agents** with RAG pipelines for instant price discovery and knowledge lookup.
+- 🧪 Researched **Explainable AI** techniques (EBM, SHAP, LIME) for malware prediction on Microsoft’s dataset.
+- 🚀 Integrated planning & spatial data across **SAP ecosystems**, improving decision-making and reporting.
+
+---
+
+## 🌟 **Selected Projects**
+- 🔷 [Automated PDF Classification App](https://pdf-electrical-classification.streamlit.app/): NLP & XGBoost-based Streamlit app to classify product PDFs.
+- 🔷 [Census Income Clustering](https://github.com/Harmanankohli/census-income-clustering): KMeans clustering for customer segmentation with EDA & PCA.
+- 🔷 Open-Source Contributions: [f_regression()](https://github.com/scikit-learn/scikit-learn/pull/28104) and [silhouette_score()](https://github.com/scikit-learn/scikit-learn/pull/28125) examples added to Scikit-learn documentation.
+
+---
+
+## 🏆 **Awards & Recognitions**
+- 🎖️ Acknowledged contributor in *The Hundred-Page Language Models Book* by Andriy Burkov.
+- 🎖️ Multiple awards at TCS: Best Team Award, Special Initiative Award, On-the-Spot Awards.
+- 🎖️ Semi-Finalist at *TechGig Code Gladiators*, one of India’s largest coding competitions.
+
+---
+
+## 🎓 **Education & Certification**
+- 📜 *M.Tech. Data Science & Engineering*, BITS Pilani — 2024
+- 📜 *B.Tech. Computer Science*, SRM University — 2018
+- ☁️ *Microsoft Certified: Azure AI Engineer Associate*, 2025
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
