@@ -14,7 +14,7 @@
 - AI/ML, NLP, GenAI, XAI, or research-driven Data Science projects.
 
 📫 **Reach Me At:** hkohli40@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/harmanankohli) | 👨‍💻 [GitHub](https://github.com/Harmanankohli) | 🧩 [LeetCode](https://leetcode.com/hkohli40)
+💼 [LinkedIn](https://linkedin.com/in/harmanankohli) | 👨‍💻 [GitHub](https://github.com/Harmanankohli) 
 
 ---
 
